@@ -6,7 +6,7 @@ font-style: normal;
 }
 body{
 font-family: "BMDOHYEON";
-background-image:url("opening.gif");
+background-image:url(opening.gif);
 background-size:100%;
 box-sizing:border-box;
 }
