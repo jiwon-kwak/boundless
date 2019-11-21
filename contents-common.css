@@ -3,6 +3,9 @@ font-family: "BMDOHYEON";
 src: url("BMDOHYEON_ttf.eot") format("eot"),
      url("BMDOHYEON_ttf.woff") format("woff"),
      url("BMDOHYEON_ttf.ttf") format("truetype");
+src: url("BMDOHYEON_otf.eot") format("eot"),
+     url("BMDOHYEON_otf.woff") format("woff"),
+     url("BMDOHYEON_otf.ttf") format("truetype");
 }
 body{
 font-family: "BMDOHYEON";
