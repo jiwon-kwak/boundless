@@ -1,0 +1,21 @@
+body{
+background-image:url("bg-menu-book.png");
+}
+.logo{
+position:absolute;
+top:23%;
+left:8%;
+height:200px;
+}
+#menu{
+position:absolute;
+top:20%;
+left:60%;
+}
+#menu li:hover a {
+color:#C19678;
+}
+#menu li:hover ul li a:hover {
+color:#C19678;
+}
+
