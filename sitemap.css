@@ -29,7 +29,7 @@ text-align:center;
 border-style:none;
 border-color:rgb(255,192,0);
 width:95%;
-margin:10px 30px;
+margin:5px 30px;
 }
 th{
 height:35px;
@@ -70,4 +70,22 @@ text-decoration:none;
 }
 a:active.logo{
 text-decoration:none;
+}
+
+a.introduction{
+text-align:center;
+}
+a:link.introduction{
+text-decoration:none;
+}
+a:visited.introduction{
+text-decoration:none;
+}
+a:hover.introduction{
+text-decoration:italic;
+color:rgb(46,117,182);
+}
+a:active.introduction{
+text-decoration:italic;
+color:rgb(46,117,182);
 }
