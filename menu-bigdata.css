@@ -3,14 +3,14 @@ background-image:url("bg-menu-bigdata.png");
 }
 .logo{
 position:absolute;
-top:17%;
-left:5%;
-height:200px;
+top:120px;
+left:80px;
+height:150px;
 }
 #menu{
 position:absolute;
-top:26%;
-left:70%;
+top:200px;
+left:1060px;
 }
 #menu li:hover a {
 color:rgb(83,50,90);
