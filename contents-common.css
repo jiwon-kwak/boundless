@@ -65,7 +65,7 @@ width:100%;
 }
 td{
 float:left;
-padding:50px 50px; /*한칸 내에서 내용과 테두리와의 간격*/
+padding:70px 50px; /*한칸 내에서 내용과 테두리와의 간격*/
 font-size:15px;
 text-indent:0px;
 line-height:200%;
