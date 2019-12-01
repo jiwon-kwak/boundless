@@ -1,3 +1,4 @@
+ï»¿@charset "UTF-8";
 @font-face {
 font-family: 'BMDOHYEON'; 
 src: local(BMDOHYEON),
@@ -56,8 +57,8 @@ table{
 clear:both;
 border-style:double none none;
 border-width:thick;
-padding:30px 100px 50px; /*table ¹Ù±ù Å×µÎ¸®¿Í ¾ÈÂÊ Ä­ °£ÀÇ °£°İ*/
-margin:10px; /*´Ù¸¥ elements¿Í ÇØ´ç table¿ÍÀÇ °£°İ*/
+padding:30px 100px 50px; /*table ë°”ê¹¥ í…Œë‘ë¦¬ì™€ ì•ˆìª½ ì¹¸ ê°„ì˜ ê°„ê²©*/
+margin:10px; /*ë‹¤ë¥¸ elementsì™€ í•´ë‹¹ tableì™€ì˜ ê°„ê²©*/
 width:100%;
 }
 tr{
@@ -65,7 +66,7 @@ width:100%;
 }
 td{
 float:left;
-padding:70px 50px; /*ÇÑÄ­ ³»¿¡¼­ ³»¿ë°ú Å×µÎ¸®¿ÍÀÇ °£°İ*/
+padding:70px 50px; /*í•œì¹¸ ë‚´ì—ì„œ ë‚´ìš©ê³¼ í…Œë‘ë¦¬ì™€ì˜ ê°„ê²©*/
 font-size:15px;
 text-indent:0px;
 line-height:200%;
