@@ -57,7 +57,7 @@ table{
 clear:both;
 border-style:double none none;
 border-width:thick;
-padding:30px 100px 50px; /*table 바깥 테두리와 안쪽 칸 간의 간격*/
+padding:30px 80px 50px; /*table 바깥 테두리와 안쪽 칸 간의 간격*/
 margin:10px; /*다른 elements와 해당 table와의 간격*/
 width:100%;
 }
